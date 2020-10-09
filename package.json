@@ -1,0 +1,25 @@
+{
+  "name": "can3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "can-define": "^1.5.7",
+    "can-ejs": "^3.2.1",
+    "steal": "^1.5.13"
+  },
+  "steal": {
+    "plugins": [
+      "can-ejs"
+    ]
+  },
+  "devDependencies": {
+    "steal-tools": "^1.8.4"
+  }
+}
