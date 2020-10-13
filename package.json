@@ -10,9 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "can-ajax": "^1.4.1",
     "can-define": "^1.5.7",
     "can-ejs": "^3.2.1",
-    "steal": "^1.5.13"
+    "steal": "^2.0.0"
   },
   "steal": {
     "plugins": [
@@ -20,6 +21,6 @@
     ]
   },
   "devDependencies": {
-    "steal-tools": "^1.8.4"
+    "steal-tools": "^2.0.0"
   }
 }
